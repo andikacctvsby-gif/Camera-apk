@@ -1,0 +1,6 @@
+{
+  "name": "AuraLens AI",
+  "description": "Kamera AI profesional dengan auto-enhancement otomatis, penghapus objek Magic Eraser satu klik, dan integrasi media sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
